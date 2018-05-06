@@ -1,13 +1,16 @@
 package com.company;
-import java.util.*;
-import java.io.*;
-import java.math.*;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
 
 public class Main {
 
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
         String program = in.nextLine();
+        in.close(); 
 
         List<Instruction> stack = new ArrayList<>();
 

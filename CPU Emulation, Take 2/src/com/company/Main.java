@@ -19,12 +19,6 @@ public class Main {
         alu.run();
 
         System.out.println(alu);
-
-
-        // Write an action using System.out.println()
-        // To debug: System.err.println("Debug messages...");
-
-
     }
 
 }

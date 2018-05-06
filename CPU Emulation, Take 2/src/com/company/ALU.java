@@ -85,29 +85,4 @@ public class ALU {
         return String.format("%d %d %d", V[0], V[1], V[2]);
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }

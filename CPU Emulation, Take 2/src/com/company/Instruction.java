@@ -1,7 +1,5 @@
 package com.company;
 
-import com.sun.org.glassfish.gmbal.Description;
-
 public class Instruction {
     public byte operand1;
     public byte operand2;
